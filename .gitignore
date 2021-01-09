@@ -1,5 +1,4 @@
 .DS_Store
-node_modules
 
 # local env files
 .env.local
@@ -20,3 +19,4 @@ yarn-error.log*
 *.sw?
 mac_github
 mac_github.pub
+node_modules
